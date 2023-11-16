@@ -318,7 +318,6 @@
                                 height="520"
                                 class="img-fluid center-img"
                                 style="margin-top: 40px;"
-                                loading="lazy"
                                 >
                         </picture>
                     </div>
