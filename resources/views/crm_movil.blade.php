@@ -1888,7 +1888,7 @@
                 width: 10%
             }
         </style>
-        <link rel="stylesheet" href="https://www.datacrm.com/vendors/intl-tel-input-18.2.1/css/intlTelInput.min.css" async >
+        
         <script src="https://www.datacrm.com/vendors/intl-tel-input-18.2.1/js/intlTelInput.min.js" defer></script>
         <script>
             $(document).ready(function() {
