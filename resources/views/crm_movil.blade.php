@@ -348,31 +348,11 @@
                             Trabaja remotamente con un sencillo diseño pensado para ayudar a tus tareas básicas diarias sin necesidad de estar frente al escritorio.
                         </p>
 
-                        <p class="typ-os-regular txt-black f-sz-sm mt-2">
+                        <p>
                         Ten a la mano la información de tus contactos, realiza actividades y gestiona tus negocios desde el celular en cualquier lugar con nuestra Aplicación móvil.
                         <br>
                         ¡Descárgala Ahora!
                         </p>
-                        <div class="row">
-                            <div class="col-12 text-md-left">
-                                <div class="row">
-                                    <div class="col-12 text-sm-left">
-                                        <a href="https://play.google.com/store/apps/details?id=com.datacrm.application" target="_blank">
-                                            <picture>
-                                                <source type="image/webp" data-srcset="https://www.datacrm.com/front/images/home/home_banner_app_playstore.webp">
-                                                <img data-src="https://www.datacrm.com/front/images/home/home_banner_app_playstore.webp" alt="play store" width="150" height="60"  id="myImg" loading="lazy">
-                                            </picture>
-                                        </a>
-                                        <a href="https://itunes.apple.com/us/app/datacrm/id1437186766?mt=8" target="_blank" class="ml-3">
-                                            <picture>
-                                                <source type="image/webp" data-srcset="https://www.datacrm.com/front/images/home/home_banner_app_appstore.webp">
-                                                <img data-src="https://www.datacrm.com/front/images/home/home_banner_app_appstore.webp" alt="istore" width="150"  height="60" id="myImg" loading="lazy">
-                                            </picture>
-                                        </a>
-                                    </div>
-                            </div>
-
-                            </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-12 mt-5 " >
